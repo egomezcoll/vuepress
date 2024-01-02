@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: https://barcelonadigitaltalent.com/app/uploads/sites/3/2020/08/Barcelona-Technology-School.png
+heroImage: https://v1.vuepress.vuejs.org/hero.png
 tagline: Barcelona Technology School
 actionText: More Information
 actionLink: /guide/
