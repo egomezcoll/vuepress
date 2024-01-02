@@ -2,7 +2,7 @@
 home: true
 heroImage: https://barcelonadigitaltalent.com/app/uploads/sites/3/2020/08/Barcelona-Technology-School.png
 tagline: Barcelona Technology School
-actionText: Quick Start →
+actionText: More Information
 actionLink: /guide/
 features:
   - title: Interface Development
